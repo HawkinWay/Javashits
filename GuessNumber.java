@@ -32,7 +32,6 @@ public class GuessNumberMulti {
 
         System.out.println("游戏结束。");
         sc.close();
-
         /********** End **********/
     }
 }
