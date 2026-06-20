@@ -4,7 +4,7 @@ import java.util.Scanner;
 // scanner.next().charAt(0)	读取字符串后取第一个字符
 // scanner.nextLine().charAt(0)	读取整行后取第一个字符
 
-public class GuessNumberMulti {
+public class GuessNumber {
     public void guess(int target) {
         /********** Begin *********/
         Scanner sc = new Scanner(System.in);

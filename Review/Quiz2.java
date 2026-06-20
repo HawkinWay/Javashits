@@ -1,3 +1,5 @@
+package Review;
+
 public class Quiz2 {
     public static void main(String[] args) throws Exception {
         Thread t1 = new Thread(() -> System.out.println("T1执行"));

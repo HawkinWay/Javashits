@@ -1,3 +1,5 @@
+package Review;
+
 public class Quiz3 {
     // 使用 volatile 保证线程间的可见性
     private static volatile boolean running = true;
